@@ -9,6 +9,6 @@
 
 console.log('new feature')
 
-working on feature one and it is not realy going well 
 
 new feature with 
+working on feature one and it is realy going well
